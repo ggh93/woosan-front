@@ -4,8 +4,9 @@
 ## 세팅환경
 기본환경 : React + TypeScript + Vite
 
-# 기본 시작 명령어
+# 기본 명령어(시작, 타입체크)
 npm run dev
+npm run tsc
 
 # 파일구조
 ```
